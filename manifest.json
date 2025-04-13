@@ -1,6 +1,6 @@
 {
-    "name": "one_task_todo",
-    "short_name": "one_task_todo",
+    "name": "onetasktodo",
+    "short_name": "onetasktodo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
